@@ -8,6 +8,8 @@ body {
   background-color: #f6f7fb;
 }
 
+/* Left bar */
+
 .left-bar {
   width: 250px;
   height: 300px;
@@ -83,6 +85,10 @@ body {
   font-weight: 600;
 }
 
+/* End Left bar */
+
+/* Top Right Welcome */
+
 .container-top-right {
   width: 50%;
   height: 100px;
@@ -113,6 +119,10 @@ body {
 
   overflow: hidden;
 }
+
+/* End Top Right Welcome */
+
+/* Grid Items */
 
 .container-grid {
   width: 50%;
@@ -162,6 +172,9 @@ body {
 
   margin-top: 10px;
 }
+/* End Grid Items */
+
+/* Right Bar */
 
 .right-bar {
   width: 250px;
@@ -241,3 +254,5 @@ table {
 .right-bar-bottom tr td:nth-child(4) {
   border-right: 0;
 }
+
+/* End Right Bar */
